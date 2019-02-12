@@ -1,3 +1,7 @@
+## 关于仓库
+
+这是一个写博客的地方，当然除了写博客，我还会在这里记录我平时学习的一些内容，比如刷的 Leetcode、学的 Mooc、书籍笔记以及写的一些小玩具，有兴趣的可以 Star 和 Watch。
+
 ## 作者个人信息
 
 - [掘金年度作者](https://juejin.im/user/574f8d8d2e958a005fd4edac/activities)
