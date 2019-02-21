@@ -26,6 +26,7 @@
 
 ### 面试
 
+- [面试前如何准备才能提高成功率](https://github.com/KieSun/Blog/issues/13)
 - [面试数十人有感](https://github.com/KieSun/Blog/issues/10)
 
 ### 杂谈
