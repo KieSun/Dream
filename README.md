@@ -11,6 +11,10 @@
 
 ## 博客文章相关
 
+### 重学 JS 系列
+
+- [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
+
 ### JS
 
 - [深度解析原型中的各个难点](https://github.com/KieSun/Blog/issues/2)
