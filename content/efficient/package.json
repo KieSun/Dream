@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {"react": "^16.8.4"}
 }
