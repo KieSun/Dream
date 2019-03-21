@@ -1,0 +1,32 @@
+[?1l>]2;exec >> log/hooks-out.log 2>&1]1;exec]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;ln -fv hooks/post-merge .git/hooks/]1;lnln: .git/hooks/: No such file or directory
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;npm i react]1;npmnpm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN efficient@1.0.0 No description
+npm WARN efficient@1.0.0 No repository field.
+
++ react@16.8.4
+added 7 packages from 3 contributors in 1.591s
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;ls -G]1;lshooks
+log
+node_modules
+package-lock.json
+package.json
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;git commit '1']1;giterror: pathspec '1' did not match any file(s) known to git.
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;git push]1;gitTo https://github.com/KieSun/Dream.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/KieSun/Dream.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;git push]1;gitTo https://github.com/KieSun/Dream.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/KieSun/Dream.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=[?1l>]2;git pull]1;gitUpdating 177f658..f78c9fc
+Fast-forward
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+]2;sxc@sxcdeMacBook-Pro-2: ~/Dream/content/efficient]1;..ent/efficient[?1h=
