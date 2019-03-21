@@ -19,6 +19,10 @@
 
 - [Hooks 该怎么用](https://github.com/KieSun/Blog/issues/15)
 
+### 提升工作效率
+
+[提升工作效率](https://github.com/KieSun/Dream/tree/master/content/efficient)
+
 ### JS
 
 - [深度解析原型中的各个难点](https://github.com/KieSun/Blog/issues/2)
