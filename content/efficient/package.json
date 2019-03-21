@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {"react": "^16.8.4"}
+  "dependencies": {"react": "^16.8.4", "http-server": "0.11.1"}
 }
