@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+files="$(git diff-tree -r --name-only --no-commit-id ORIG_HEAD HEAD)"
+
+run() {
+	echo "$files" | grep --quiet "$1" && eval "$2"
+}
+
+run package.json "npm install"
