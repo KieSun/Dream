@@ -14,6 +14,7 @@
 ### 重学 JS 系列
 
 - [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
+- [聊聊继承](https://github.com/KieSun/Dream/issues/16)
 
 ### React 进阶系列
 
