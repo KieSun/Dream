@@ -11,6 +11,19 @@
 
 ## 博客文章相关
 
+### 重学 JS 系列
+
+- [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
+- [聊聊继承](https://github.com/KieSun/Dream/issues/16)
+
+### React 进阶系列
+
+- [Hooks 该怎么用](https://github.com/KieSun/Blog/issues/15)
+
+### 提升工作效率
+
+[提升工作效率](https://github.com/KieSun/Dream/tree/master/content/efficient)
+
 ### JS
 
 - [深度解析原型中的各个难点](https://github.com/KieSun/Blog/issues/2)
