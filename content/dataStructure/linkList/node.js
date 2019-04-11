@@ -1,8 +1,8 @@
 class Node {
-  constructor(value) {
-    this.value = value
-    this.next = null
+  constructor(value, next) {
+    this.value = value;
+    this.next = next || null;
   }
 }
 
-module.exports = Node
+module.exports = Node;
