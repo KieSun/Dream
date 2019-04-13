@@ -20,7 +20,7 @@
 
 - [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
 - [聊聊继承](https://github.com/KieSun/Dream/issues/16)
-- [为啥 await 不能用在 forEach 中](https://github.com/KieSun/Dream/issues/17)
+- [为啥 await 在 forEach 中不生效](https://github.com/KieSun/Dream/issues/17)
 
 ### React 进阶系列
 
