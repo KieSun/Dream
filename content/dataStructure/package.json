@@ -1,0 +1,15 @@
+{
+  "name": "dataStructure",
+  "version": "1.0.0",
+  "description": "这一部分是数据结构的内容，全部由 C++ 实现。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buckets-js": "^1.98.2"
+  }
+}
