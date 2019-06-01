@@ -12,7 +12,7 @@
 
 觉得内容有帮助可以关注下我的公众号 「前端真好玩」咯，会有很多好东西等着你。
 
-![](https://user-gold-cdn.xitu.io/2018/12/7/1678800c654a7f34?w=258&h=258&f=jpeg&s=26756)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
 
 ## 博客文章相关
 
@@ -64,4 +64,4 @@
 
 你可以添加我的微信号，进入我的高级前端交流群，与大家一起交流学习，我也经常会在群内分享与交流。
 
-![](https://user-gold-cdn.xitu.io/2018/12/27/167eeff36b9ea1a8?w=274&h=357&f=png&s=72221)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
