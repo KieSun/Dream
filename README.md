@@ -21,6 +21,7 @@
 - [热身篇](https://github.com/KieSun/Dream/issues/18)
 - [render 流程（一）](https://github.com/KieSun/Dream/issues/19)
 - [render 流程（二）](https://github.com/KieSun/Dream/issues/20)
+- [调度原理](https://github.com/KieSun/Dream/issues/21)
 
 ### 重学 JS 系列
 
