@@ -10,9 +10,10 @@
 
 ## 我的公众号
 
-觉得内容有帮助可以关注下我的公众号 「前端真好玩」咯，会有很多好东西等着你。
+觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入前端进阶群一起成长。
 
 ![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
 
 ## 博客文章相关
 
@@ -60,9 +61,3 @@
 - [如何正确的使用你的时间](https://github.com/KieSun/Blog/issues/4)
 - [入门前端一年半总结](https://github.com/KieSun/Blog/issues/11)
 - [一位掘金年度作者的年度总结](https://github.com/KieSun/Blog/issues/12)
-
-## 交流
-
-你可以添加我的微信号，进入我的高级前端交流群，与大家一起交流学习，我也经常会在群内分享与交流。
-
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
