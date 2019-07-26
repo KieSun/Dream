@@ -8,7 +8,7 @@
 - [我的出版小册「前端面试之道」](https://juejin.im/book/5bdc715fe51d454e755f75ef?referrer=574f8d8d2e958a005fd4edac)
 - [我的 14k stars 开源项目](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
-## 我的公众号
+## 我的公众号及群
 
 觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入前端进阶群一起成长。
 
