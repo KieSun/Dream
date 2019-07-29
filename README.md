@@ -8,13 +8,6 @@
 - [我的出版小册「前端面试之道」](https://juejin.im/book/5bdc715fe51d454e755f75ef?referrer=574f8d8d2e958a005fd4edac)
 - [我的 14k stars 开源项目](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
-## 我的公众号及群
-
-觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入前端进阶群一起成长。
-
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
-
 ## 博客文章相关
 
 Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yuchengkai.cn/home/)上阅读。
@@ -67,3 +60,10 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 - [如何正确的使用你的时间](https://github.com/KieSun/Blog/issues/4)
 - [入门前端一年半总结](https://github.com/KieSun/Blog/issues/11)
 - [一位掘金年度作者的年度总结](https://github.com/KieSun/Blog/issues/12)
+
+## 我的公众号及群
+
+觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入前端进阶群一起成长。
+
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
