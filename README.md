@@ -41,7 +41,7 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 
 ### 提升工作效率
 
-[提升工作效率](https://github.com/KieSun/Dream/tree/master/content/efficient)
+- [提升工作效率](https://github.com/KieSun/Dream/tree/master/content/efficient)
 
 ### JS
 
