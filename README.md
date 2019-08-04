@@ -23,6 +23,12 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 - [调度原理](https://github.com/KieSun/learn-react-essence/blob/master/%E8%B0%83%E5%BA%A6%E5%8E%9F%E7%90%86.md)
 - [组件更新流程（一）](https://github.com/KieSun/learn-react-essence/blob/master/%E7%BB%84%E4%BB%B6%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
+### 本周我们学了什么系列
+
+- [【第一期】本周我们 36 人学了什么](https://github.com/KieSun/Dream/issues/22)
+- [【第二期】本周我们 55 人学了什么](https://github.com/KieSun/Dream/issues/24)
+- [【第三期】本周我们 37 人学了什么](https://github.com/KieSun/Dream/issues/25)
+
 ### 重学 JS 系列
 
 - [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
