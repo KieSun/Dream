@@ -23,12 +23,6 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 - [组件更新流程一（调度任务）](https://github.com/KieSun/learn-react-essence/blob/master/%E7%BB%84%E4%BB%B6%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B%E4%B8%80%EF%BC%88%E8%B0%83%E5%BA%A6%E4%BB%BB%E5%8A%A1%EF%BC%89.md)
 - [组件更新流程二（diff 策略）](https://github.com/KieSun/learn-react-essence/blob/master/%E7%BB%84%E4%BB%B6%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B%E4%BA%8C%EF%BC%88diff%20%E7%AD%96%E7%95%A5%EF%BC%89.md)
 
-### 本周我们学了什么系列
-
-- [【第一期】本周我们 36 人学了什么](https://github.com/KieSun/Dream/issues/22)
-- [【第二期】本周我们 55 人学了什么](https://github.com/KieSun/Dream/issues/24)
-- [【第三期】本周我们 37 人学了什么](https://github.com/KieSun/Dream/issues/25)
-
 ### 重学 JS 系列
 
 - [聊聊 new 操作符](https://github.com/KieSun/Blog/issues/14)
@@ -63,6 +57,7 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 
 ### 杂谈
 
+- [你在 19 年剩余的时间里还能学点什么？](https://github.com/KieSun/Dream/issues/26)
 - [如何正确的使用你的时间](https://github.com/KieSun/Blog/issues/4)
 - [入门前端一年半总结](https://github.com/KieSun/Blog/issues/11)
 - [一位掘金年度作者的年度总结](https://github.com/KieSun/Blog/issues/12)
