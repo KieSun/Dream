@@ -14,6 +14,7 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 
 ### Vue 3 源码解析
 
+- [Vue 3 源码注释](https://github.com/KieSun/vue-interpretation)
 - [数据响应系统原理](https://github.com/KieSun/vue-interpretation/blob/comment/article/%E6%95%B0%E6%8D%AE%E5%93%8D%E5%BA%94.md)
 
 ### React 源码解析
