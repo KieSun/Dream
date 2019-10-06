@@ -12,6 +12,10 @@
 
 Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yuchengkai.cn/home/)上阅读。
 
+### Vue 3 源码解析
+
+- [数据响应系统原理](https://github.com/KieSun/vue-interpretation/blob/comment/article/%E6%95%B0%E6%8D%AE%E5%93%8D%E5%BA%94.md)
+
 ### React 源码解析
 
 需要注意一点：文章的风格分为了两部分。 从调度原理开始，笔者抛弃了单纯讲源码的方式。而是将重点放在了原理上，尽可能地脱离源码讲原理，这种方式能更快更好地让读者学习到知识。
