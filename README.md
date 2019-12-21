@@ -4,9 +4,13 @@
 
 ## 作者个人信息
 
-- [掘金年度作者](https://juejin.im/user/574f8d8d2e958a005fd4edac/activities)
+- [进阶资深前端开发资料](https://github.com/KieSun/FE-advance-road)
 - [我的出版小册「前端面试之道」](https://juejin.im/book/5bdc715fe51d454e755f75ef?referrer=574f8d8d2e958a005fd4edac)
-- [我的 14k stars 开源项目](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+- [我的 16k stars 开源项目](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+
+| 微信扫码关注公众号，订阅更多精彩内容                                                                 | 加笔者微信进群与大厂大佬讨论技术                                                                    |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220223702.jpeg" width="500px;" /> | <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220224224.png" width="260px;" /> |
 
 ## 博客文章相关
 
