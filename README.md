@@ -16,6 +16,10 @@
 
 Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yuchengkai.cn/home/)上阅读。
 
+### 新发
+
+- [看完跳槽少说涨 5 K，前端面试从准备到谈薪完全指南（近万字精华）](https://github.com/KieSun/Dream/issues/28)
+
 ### 从零开始造轮子
 
 - [你不知道的高性能实现深拷贝的方式](https://github.com/KieSun/FE-advance-road/blob/master/wheels/deepClone/index.md)
