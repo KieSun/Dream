@@ -40,7 +40,12 @@ function produce(baseState, fn) {
       // 否则直接 copy[key] = newValue 的话外部拿到的对象是个 proxy
       copy[key] = isProxy(newValue) ? newValue[MY_IMMER] : newValue
       return true
-    }
+    },
+    deleteProperty(target, key) {
+      const copy = getCopy(target)
+      delete copy[key]
+      return true
+    },
   }
 
   const getProxy = data => {
@@ -99,12 +104,14 @@ const state = {
       }
     }
   },
-  data: [1]
+  data: [1, 2, 3]
 }
 
 const data = produce(state, draftState => {
   draftState.info.age = 26
   draftState.info.career.first.name = '222'
+  draftState.data.splice(0, 1)
+  draftState.data.pop()
 })
 
 console.log(data, state)
