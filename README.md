@@ -48,7 +48,7 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 
 ### React 进阶系列
 
-- [Hooks 该怎么用](https://github.com/KieSun/Blog/issues/15)
+- [Hooks 该怎么用](https://github.com/KieSun/Dream/issues/15)
 
 ### 提升工作效率
 
